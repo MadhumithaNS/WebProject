@@ -1,0 +1,13 @@
+# Ignore logs, env files, uploads, and system files
+*.log
+*.env
+*.zip
+*.rar
+*.tar
+uploads/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
